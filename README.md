@@ -1,9 +1,9 @@
 # my-promise
-A JS Promise implementation by myself for learning purposes.
+A Promises/A+ implementation for learning purposes.
 
 # Promises/A+ specification
 
-[Promises/A+ is](https://promisesaplus.com/) an open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
+[Promises/A+](https://promisesaplus.com/) is an open standard for sound, interoperable JavaScript promises—by implementers, for implementers.
 
 # Run the tests
 
