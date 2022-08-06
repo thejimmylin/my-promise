@@ -1,5 +1,5 @@
 # my-promise
-A Promises/A+ implementation for learning purposes.
+A readable Promises/A+ implementation.
 
 # Promises/A+ specification
 
