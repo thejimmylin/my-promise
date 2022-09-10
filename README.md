@@ -15,7 +15,7 @@ npm test
 
 ## Contributing
 
-1. Fork it (<https://github.com/j3ygh/my-promise/fork>)
+1. Fork it (<https://github.com/thejimmylin/my-promise/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -27,4 +27,4 @@ Distributed under the [MIT](https://choosealicense.com/licenses/mit/) license. S
 
 ## Authors
 
-- [@j3ygh](https://www.github.com/j3ygh)
+- [@thejimmylin](https://www.github.com/thejimmylin)
